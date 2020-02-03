@@ -26,7 +26,7 @@
     "broccoli-funnel": "^1.2.0",
     "ember-cli-babel": "^6.0.0",
     "ember-cli-htmlbars": "^1.1.1",
-    "material-design-iconfont": "ynnoj/material-design-iconfont"
+    "material-design-iconfont": "RealSavvy/material-design-iconfont"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
